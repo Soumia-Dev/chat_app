@@ -1,0 +1,122 @@
+{
+  "@@locale": "fr",
+  "introTitle0": "Bienvenue sur ChatApp",
+  "introSubtitle0": "Connectez-vous facilement avec vos amis et votre famille grâce à notre application de chat sécurisée",
+  "introTitle1": "Exprimez-vous",
+  "introSubtitle1": "Partagez des messages, des photos et des réactions en toute sécurité et instantanément",
+  "introTitle2": "Messagerie intelligente",
+  "introSubtitle2": "Restez connecté en permanence grâce à une messagerie claire et sans distraction",
+  "next": "Suivant",
+  "getStarted": "Commencer",
+
+
+ "appName": "Application de chat",
+ "subTitle": "Connectez-vous • Partagez • Profitez",
+ "joinUs" : "Rejoignez-nous",
+
+
+  "login": "Se Connecter",
+  "signup": "S'inscrire",
+  "signUpWith": "Se Connecter avec Google",
+  "createNewAccount" : "Créer un nouveau compte",
+    "youHaveAlreadyAnAccount": "vous avez déga un compte",
+  "youHaveNotAnAccount": "vous n'avez pas un compte? ",
+  "forgetPassword": "Mot de passe oublié?",
+  "fullName": "full name",
+  "email": "email",
+  "password": "password",
+  "fullName": "nom complet",
+  "email": "email",
+  "password": "mot de pass",
+  "confirmPassword": "confirmer le mot de pass",
+ "pleaseEnterYour": "SVP entrer votre",
+ "yourPassIsShort": "mot de pass moins de 6 charactères",
+ "invalidEmail": "e-mail invalide",
+ "passwordsDoNotMatch": "les mots de passe ne correspondent pas",
+"pleaseCheckInformation" : "Veuillez vous vérifier votre informations",
+"pleaseTryAgain" : "Veuillez réessayer",
+"pleaseConfirmEmail": "Nous vous avons envoyé un e-mail de vérification. Veuillez vérifier votre boîte de réception, si vous ne le trouvez pas, consultez vos spams.",
+ "resetPassword": "Nous vous avons envoyé un e-mail de réinitialisation de mot de passe. Veuillez vérifier votre boîte de réception. Si vous ne le trouvez pas,consultez vos spams.",
+ "resetPasswordFalse": "Veuillez vérifier l'adresse e-mail que vous avez saisie et réessayer.",
+ "emailExists": "le compte existe déja pour cet e-mail",
+
+
+  "chats": "chats",
+ "calls": "appels",
+ "invitations":"invitations",
+ "setting": "réglages",
+
+
+ "myFriends":"Mes amis",
+ "chatBox":"Boîte de discussion",
+ "users": "utilisateurs",
+ "sent":"envoyé",
+  "received":"reçu",
+
+"noChats":"pas de chats",
+ "writeSomethingHere":"Écrivez quelque chose ici...",
+ "makeItFriendAndSayHi":"Faites-le devenir ami et dites bonjour 👋",
+ "deleteMessage": "Supprimer le(s) message(s)?",
+ "areYouSureDeleteMessage": "Êtes-vous sûr de supprimer le(s) message(s) sélectionné(s)?",
+ "lastSeen":"dernière vue",
+ "editValue":"Modifier la valeur",
+ "enterNewValue":"Saisir une nouvelle valeur",
+ "cancel":"Annuler",
+ "save":"Enregistrer",
+ "helpSupport":"Aide & Assistance",
+  "aboutApp":"À propos de l'application",
+ "joiningDate":"Date d'adhésion",
+
+
+ "failedToLoadUsers": "Échec du chargement des utilisateurs",
+ "noUsersFound": "Aucun utilisateur trouvé",
+ "noReceivedInviteFound": "Aucune demande entrante",
+ "noSentInviteFound": "Aucune demande envoyée",
+ "noRecentSearches" :"Aucune recherche récente",
+ "clearAll" :"effacer tout",
+
+
+  "accept":"Accepter",
+   "ignore":"Ignorer",
+   "cancel":" Annuler la demande",
+   "cancelFriend":"Annuler l'ami",
+   "addFriend":"Ajouter un ami",
+   "chatWithYouFriend":"Discuter avec votre ami",
+   "notifications":"Notifications",
+   "friends":"Amis",
+   "aboutMe":"à propos de moi",
+
+
+   "general": "Général",
+   "privacySecurity": "Confidentialité et sécurité",
+   "darkMode": "Mode sombre",
+   "language": "Langue",
+  "selectLanguage":"Sélectionner la langue",
+   "allTheUsers": "Tous les utilisateurs",
+   "pushNotifications": "Notifications push",
+   "privacySettings": "Paramètres de confidentialité",
+   "twoFactorAuthentication": "Authentification à deux facteurs",
+   "logout": "Déconnexion",
+   "deleteAccount": "Supprimer le compte",
+   "alert":"Alerte",
+   "leaveApp":"Êtes-vous sûr de quitter l'application?",
+   "deleteAccountAlert":"Êtes-vous sûr de supprimer votre compte ?",
+   "ok":"oui",
+   "successfullyUpdatePhoto":"votre photo a été mise à jour avec succès",
+   "successfullyLoggedOut":"déconnecté avec succès",
+   "successDeleteAccount":"Le compte a été supprimé avec succès.",
+   "pleaseCheckYourNet":"Veuillez vérifier votre connexion réseau !",
+   "incorrectPassword":"Mot de passe incorrect"
+
+
+
+
+
+
+
+
+
+
+
+
+}

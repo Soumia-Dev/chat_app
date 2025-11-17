@@ -1,0 +1,115 @@
+{
+  "@@locale": "en",
+  "introTitle0": "Welcome to ChatApp",
+  "introSubtitle0": "Connect with your friends and family easily with our secure chat app",
+  "introTitle1": "Express Yourself",
+  "introSubtitle1": "Share messages, photos, and reaction  safety and instantly",
+  "introTitle2": "Smart Messaging",
+  "introSubtitle2": "Stay connected anytime with a clean and distraction-free messaging experience",
+  "next": "Next",
+  "getStarted": "Get Started",
+
+
+ "appName": "Chat App",
+  "subTitle": "Connect • Share • Enjoy",
+ "joinUs" : "Join Us",
+
+
+  "login": "Login",
+  "signup": "SignUp",
+  "signUpWith": "Login with Google",
+  "createNewAccount": "Create New Account",
+  "youHaveAlreadyAnAccount": "You have already an account? ",
+  "youHaveNotAnAccount": "You have not an account? ",
+  "forgetPassword": "Forget password?",
+  "fullName": "full name",
+  "email": "email",
+  "password": "password",
+  "confirmPassword": "confirm password",
+  "pleaseEnterYour": "please enter your",
+  "yourPassIsShort": "password less than 6 characters",
+  "invalidEmail": "invalid email",
+  "passwordsDoNotMatch": "passwords do not match",
+  "pleaseCheckInformation" : "Please check your information",
+  "pleaseTryAgain" : "Please try again",
+  "pleaseConfirmEmail": "We sent you a verification email. Please check your Inbox,if not found, look in Spam/Junk.",
+  "resetPassword": "We sent you a password reset. Please check your Inbox,if not found, look in Spam/Junk.",
+  "resetPasswordFalse": "Please check the email address you entered and try again.",
+  "emailExists": "The account already exists for that email.",
+
+ "chats": "chats",
+ "calls": "calls",
+ "invitations":"invitations",
+ "setting": "setting",
+
+
+ "myFriends":"My friends",
+ "chatBox":"Chat Box",
+ "users": "users",
+ "sent":"sent",
+ "received":"received",
+
+
+ "noChats":"No Chats",
+ "writeSomethingHere":"Write something here...",
+ "makeItFriendAndSayHi":"Make it friend and say hi 👋 ",
+ "deleteMessage": "Delete message(s)?",
+ "areYouSureDeleteMessage": "Are you sure you want to delete selected message(s)?",
+ "lastSeen":"last Seen",
+ "editValue":"Edit Value",
+ "enterNewValue":"Enter new value",
+ "cancel":"Cancel",
+ "save":"Save",
+ "helpSupport":"Help & Support",
+ "aboutApp":"About App",
+ "joiningDate":"Joining date",
+
+
+ "failedToLoadUsers": "Failed to load users",
+ "noUsersFound": "No users found",
+ "noReceivedInviteFound": "No received invitation found",
+ "noSentInviteFound": "No sent invitation found",
+ "noRecentSearches" :"No recent searches",
+ "clearAll": "clear all",
+
+
+"accept":"Accept",
+"ignore":"Ignore",
+"cancel":"Cancel",
+"cancelFriend":"Cancel friend",
+"addFriend":"Add Friend",
+"chatWithYouFriend":"chat with you friend",
+"notifications":"Notifications",
+"friends":"Friends ",
+"aboutMe":"About me",
+
+
+"general":"General",
+"privacySecurity": "Privacy & Security",
+"darkMode": "Dark Mode",
+"language":"Language",
+"selectLanguage":"Select Language",
+"allTheUsers":"all the users",
+"pushNotifications":"Push Notifications",
+ "privacySettings": "Privacy Settings",
+ "twoFactorAuthentication":"Two-Factor Authentication",
+ "logout":"Logout",
+ "deleteAccount": "Delete account",
+ "alert":"Alert",
+ "leaveApp":"Are you sure you want to leave the app?",
+ "deleteAccountAlert":"Are you sure you want to delete your account?",
+ "ok":"ok",
+ "successfullyUpdatePhoto":"successfully update your photo",
+ "successfullyLoggedOut":"successfully logged out",
+ "successDeleteAccount":"successfully delete account",
+ "pleaseCheckYourNet":"Please check your network!",
+ "incorrectPassword":"Incorrect password"
+
+
+
+
+
+
+
+
+}
