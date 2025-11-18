@@ -1,5 +1,5 @@
 
-# chat_app
+## 📱 chat_app
 Chat App is a Flutter messaging application that allows users to chat in real-time, manage profiles, and stay connected with friends — all built with a clean UI and smooth experience.
 ## ✨ Features
 
@@ -36,4 +36,25 @@ To run this project, add your own Firebase configuration files:
   <img src="assets/screen_shots/light2.png" width="200" style="margin: 5px;" alt="02">
   <img src="assets/screen_shots/light3.png" width="200" style="margin: 5px;" alt="03">
   <img src="assets/screen_shots/light4.png" width="200" style="margin: 5px;" alt="03">
+</p>
+
+<p align="center">
+  <img src="assets/screen_shots/light5.png" width="200" style="margin: 5px;" alt="01">
+  <img src="assets/screen_shots/light6.png" width="200" style="margin: 5px;" alt="02">
+  <img src="assets/screen_shots/light7.png" width="200" style="margin: 5px;" alt="03">
+  <img src="assets/screen_shots/light8.png" width="200" style="margin: 5px;" alt="03">
+</p>
+
+<p align="center">
+  <img src="assets/screen_shots/light9.png" width="200" style="margin: 5px;" alt="01">
+  <img src="assets/screen_shots/light10.png" width="200" style="margin: 5px;" alt="02">
+  <img src="assets/screen_shots/light11.png" width="200" style="margin: 5px;" alt="03">
+  <img src="assets/screen_shots/dark1.png" width="200" style="margin: 5px;" alt="03">
+</p>
+
+<p align="center">
+  <img src="assets/screen_shots/dark2.png" width="200" style="margin: 5px;" alt="01">
+  <img src="assets/screen_shots/dark3.png" width="200" style="margin: 5px;" alt="02">
+  <img src="assets/screen_shots/dark4.png" width="200" style="margin: 5px;" alt="03">
+  <img src="assets/screen_shots/dark5.png" width="200" style="margin: 5px;" alt="03">
 </p>
