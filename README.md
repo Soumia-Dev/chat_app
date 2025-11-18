@@ -41,7 +41,7 @@ To run this project, add your own Firebase configuration files:
 <p align="center">
   <img src="assets/screen_shots/light5.png" width="200" style="margin: 5px;" alt="01">
   <img src="assets/screen_shots/light6.png" width="200" style="margin: 5px;" alt="02">
- 
+  <img src="assets/screen_shots/light7.png" width="200" style="margin: 5px;" alt="03">
   <img src="assets/screen_shots/light8.png" width="200" style="margin: 5px;" alt="03">
 </p>
 
