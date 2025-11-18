@@ -49,3 +49,4 @@ app.*.map.json
 android/app/google-services.json
 firebase.json
 assets/keyNotification.json
+lib/firebase_options.dart

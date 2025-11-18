@@ -88,7 +88,7 @@ class NotificationService {
   }) async {
     const String uri =
         "https://fcm.googleapis.com/v1/projects/chatapp-66c4e/messages:send";
-
+    //here in chatapp-66c4e change it to the id of your firebase project
     final accessToken = await NotificationServiceImpl.getAccessToken();
 
     final payload = {
